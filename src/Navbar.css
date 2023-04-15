@@ -1,0 +1,16 @@
+.nav-box {
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	
+}
+.nav-items {
+	padding: 20px;
+}
+
+.nav-logo {
+	display: block;
+	justify-content:space-between;
+	flex-direction: row;
+	padding: 20px;
+}
